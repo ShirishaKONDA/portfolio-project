@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/kondaWEBapp/static/css/main.1fa91261.css",
-    "main.js": "/kondaWEBapp/static/js/main.8b1afddb.js",
-    "static/js/453.1fa56f78.chunk.js": "/kondaWEBapp/static/js/453.1fa56f78.chunk.js",
-    "static/media/bootstrap-icons.woff?": "/kondaWEBapp/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
-    "static/media/bootstrap-icons.woff2?": "/kondaWEBapp/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
-    "index.html": "/kondaWEBapp/index.html",
-    "main.1fa91261.css.map": "/kondaWEBapp/static/css/main.1fa91261.css.map",
-    "main.8b1afddb.js.map": "/kondaWEBapp/static/js/main.8b1afddb.js.map",
-    "453.1fa56f78.chunk.js.map": "/kondaWEBapp/static/js/453.1fa56f78.chunk.js.map"
+    "main.css": "/Portfolio-Vite-website1/static/css/main.e15ee33f.css",
+    "main.js": "/Portfolio-Vite-website1/static/js/main.fc950b92.js",
+    "static/js/453.1fa56f78.chunk.js": "/Portfolio-Vite-website1/static/js/453.1fa56f78.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/Portfolio-Vite-website1/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/Portfolio-Vite-website1/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/Portfolio-Vite-website1/index.html",
+    "main.e15ee33f.css.map": "/Portfolio-Vite-website1/static/css/main.e15ee33f.css.map",
+    "main.fc950b92.js.map": "/Portfolio-Vite-website1/static/js/main.fc950b92.js.map",
+    "453.1fa56f78.chunk.js.map": "/Portfolio-Vite-website1/static/js/453.1fa56f78.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1fa91261.css",
-    "static/js/main.8b1afddb.js"
+    "static/css/main.e15ee33f.css",
+    "static/js/main.fc950b92.js"
   ]
 }
